@@ -9,6 +9,3 @@ count++;
 if(count==2){
 console.log("It's prime");
 }
-else{
-console.log("It's not prime");
-}
