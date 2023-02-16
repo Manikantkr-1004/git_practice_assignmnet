@@ -2,7 +2,7 @@ let number=13;
 let count =0;
 
 for(let i=0; i<=number; i++){
-if(i%number==0){
+if(number%i==0){
 count++;
 }
 
